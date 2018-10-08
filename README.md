@@ -4,4 +4,4 @@
 
 ## The dataset lives here: http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
-![Illusration for a project]
+![Illusration for a project](https://github.com/inspirenata/BikeSharingPrediction/blob/master/RandomForest.JPG)
